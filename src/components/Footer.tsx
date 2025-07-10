@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Pill className="h-8 w-8 text-blue-400" />
-              <span className="text-2xl font-bold">PharmaCare</span>
+              <span className="text-2xl font-bold">Samir Pharma</span>
             </div>
             <p className="text-gray-400 mb-4 max-w-md">
               Your comprehensive resource for pharmaceutical education, professional development, 
@@ -39,11 +39,11 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-400">
               <li className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span>pharmacare@example.com</span>
+                <span>samirsapkota09@gmail.com</span>
               </li>
               <li className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span>+977 98XXXXXXXX</span>
+                <span>+977 9863199343</span>
               </li>
               <li className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />

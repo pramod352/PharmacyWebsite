@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/pramod352.github.io/PharmacyWebsite/',
+  base: '/PharmacyWebsite/',
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
