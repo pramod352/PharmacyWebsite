@@ -32,16 +32,16 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6 text-blue-600" />,
       title: "Email",
-      description: "Send us an email anytime",
-      contact: "pharmacare@example.com",
-      action: "mailto:pharmacare@example.com"
+      description: "Send me an email anytime",
+      contact: "samirsapkota09@gmail.com",
+      action: "mailto:samirsapkota09@gmail.com"
     },
     {
       icon: <Phone className="h-6 w-6 text-green-600" />,
       title: "Phone",
       description: "Call us during business hours",
-      contact: "+977 98XXXXXXXX",
-      action: "tel:+97798XXXXXXXX"
+      contact: "+977 9863199343",
+      action: "tel:+977 9863199343"
     },
     {
       icon: <MessageCircle className="h-6 w-6 text-purple-600" />,
